@@ -1,9 +1,0 @@
-Package: com.peng1029.aiicons
-Name: Ai-Icons
-Version: 0.01
-Architecture: iphoneos-arm
-Description: Ai App Icons generated my dall-e mini
-Author: Peng1029
-Maintainer: Peng1029
-Section: Themes
-Depends: com.anemonetheming.anemone | com.spark.snowboard
