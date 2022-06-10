@@ -1,33 +1,32 @@
-Dropbox -- App Id Here
-Gmail --
-Facebook? --
+Dropbox -- com.getdropbox.Dropbox
+Gmail -- com.google.Gmail
+Facebook? -- com.facebook.Facebook
 Facetime -- com.apple.facetime
 Google Assistant --
 Health -- com.apple.Health
 Home -- com.apple.Home
-Instagram? --
-Reddit --
-Keynote --
+Instagram? -- com.burbn.instagram
+Reddit -- com.reddit.Reddit
+Keynote -- com.apple.Keynote
 Maps -- com.apple.Maps
 Notes -- com.apple.mobilenotes
-Netflix --
-Disney Plus --
-Prime Video --
+Netflix -- com.netflix.Netflix
+Disney Plus -- com.disney.disneyplus
+Prime Video -- com.amazon.aiv.AIVApp
 Music -- com.apple.Music
 Messages -- com.apple.MobileSMS
-Numbers --
-Pages --
+Numbers -- com.apple.Numbers
+Pages -- com.apple.Pages
 Photos -- com.apple.mobileslideshow
-Reddit --
 Reminders -- com.apple.reminders
 Settings -- com.apple.Preferences
-GSheets --
+GSheets -- com.google.Sheets
 Phone -- com.apple.mobilephone
-GPresentation --
-Twitch --
-Twitter --
+GPresentation -- com.google.Slides
+Twitch -- tv.twitch
+Twitter -- com.atebits.Tweetie2
 Apple Watch -- com.apple.Bridge
-Youtube Studios --
+Youtube Studios -- com.google.ios.ytcreator
 Altstore -- com.rileytestut.AltStore
 Filza -- com.tigisoftware.Filza
 NewTerm -- ws.hbang.Terminal
