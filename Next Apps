@@ -1,37 +1,37 @@
 Dropbox -- App Id Here
 Gmail --
 Facebook? --
-Facetime --
+Facetime -- com.apple.facetime
 Google Assistant --
-Health --
-Home --
+Health -- com.apple.Health
+Home -- com.apple.Home
 Instagram? --
 Reddit --
 Keynote --
-Maps --
-Notes --
+Maps -- com.apple.Maps
+Notes -- com.apple.mobilenotes
 Netflix --
 Disney Plus --
 Prime Video --
-Music --
-Messages --
+Music -- com.apple.Music
+Messages -- com.apple.MobileSMS
 Numbers --
 Pages --
-Photos --
+Photos -- com.apple.mobileslideshow
 Reddit --
-Reminders --
-Settings --
+Reminders -- com.apple.reminders
+Settings -- com.apple.Preferences
 GSheets --
-Phone --
+Phone -- com.apple.mobilephone
 GPresentation --
 Twitch --
 Twitter --
-Watch --
+Apple Watch -- com.apple.Bridge
 Youtube Studios --
-
-
-
-
+Altstore -- com.rileytestut.AltStore
+Filza -- com.tigisoftware.Filza
+NewTerm -- ws.hbang.Terminal
+Sileo -- org.coolstar.SileoStore
 
 Just Spare Icons
 Games |
